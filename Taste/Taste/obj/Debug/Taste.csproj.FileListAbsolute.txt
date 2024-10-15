@@ -1,0 +1,15 @@
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\obj\Debug\Taste.csproj.AssemblyReference.cache
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\obj\Debug\Taste.csproj.CoreCompileInputs.cache
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\Taste.exe.config
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\Taste.exe
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\Taste.pdb
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\OpenTK.dll
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\OpenTK.GLControl.dll
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\System.Drawing.Common.dll
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\OpenTK.pdb
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\OpenTK.xml
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\OpenTK.GLControl.xml
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\bin\Debug\System.Drawing.Common.xml
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\obj\Debug\Taste.csproj.Up2Date
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\obj\Debug\Taste.exe
+C:\Info\EGC\FlorescuD_temaCLI\Taste\Taste\obj\Debug\Taste.pdb
