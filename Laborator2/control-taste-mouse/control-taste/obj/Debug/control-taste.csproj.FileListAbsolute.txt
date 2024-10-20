@@ -1,0 +1,13 @@
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\obj\Debug\control-taste.csproj.AssemblyReference.cache
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\obj\Debug\control-taste.csproj.CoreCompileInputs.cache
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\control-taste.exe.config
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\control-taste.exe
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\control-taste.pdb
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\OpenTK.dll
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\OpenTK.GLControl.dll
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\OpenTK.pdb
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\OpenTK.xml
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\bin\Debug\OpenTK.GLControl.xml
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\obj\Debug\control-.B2B83545.Up2Date
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\obj\Debug\control-taste.exe
+C:\Info\EGC\FlorescuD_temaCLI\Taste1\control-taste\control-taste\obj\Debug\control-taste.pdb
