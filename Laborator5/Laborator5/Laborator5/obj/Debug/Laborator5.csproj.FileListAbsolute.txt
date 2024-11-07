@@ -1,0 +1,13 @@
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\obj\Debug\Laborator5.csproj.AssemblyReference.cache
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\obj\Debug\Laborator5.csproj.CoreCompileInputs.cache
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\Laborator5.exe.config
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\Laborator5.exe
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\Laborator5.pdb
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\OpenTK.dll
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\OpenTK.GLControl.dll
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\OpenTK.pdb
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\OpenTK.xml
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\bin\Debug\OpenTK.GLControl.xml
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\obj\Debug\Laborator5.csproj.Up2Date
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\obj\Debug\Laborator5.exe
+C:\Info\EGC\FlorescuD_temaCLI\Laborator5\Laborator5\Laborator5\obj\Debug\Laborator5.pdb
